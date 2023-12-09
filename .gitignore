@@ -10,7 +10,8 @@
 /coverage
 
 # next.js
-/.next/
+/.next/cache/webpack/client-production
+/.next/cache/webpack/server-production
 /out/
 
 # production

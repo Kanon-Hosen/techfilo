@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[652],{1266:function(t,e,n){n.d(e,{_P3:function(){return GrFormNext}});var r=n(1172);function GrFormNext(t){return(0,r.w_)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"polyline",attr:{fill:"none",stroke:"#000",strokeWidth:"2",points:"9 6 15 12 9 18"}}]})(t)}}}]);
